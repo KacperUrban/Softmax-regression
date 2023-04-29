@@ -10,4 +10,4 @@ Creating a softmax regression from scratch to predict iris class.
 * Pandas
 
 ## Status
-The project is in progress 
+The project has been completed
